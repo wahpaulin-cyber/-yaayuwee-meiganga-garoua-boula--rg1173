@@ -8,7 +8,7 @@ Documentation Yaayuwee dialecte Meiganga-Garoua-Boulai: Gbaya Northwest [gya] - 
 - Profil: HAKMO WAH PAULIN (gya)
 - Preuve: voir capture dans ce README
 - Activité mondiale du jour: 1618/1200 (dépassé grâce à Yaayuwee)
-![Preuve 56 clips](Screenshot_20260918_193342_com.mozilla.commonvoice.jpg)
+ ![Preuve 56 clips](Screenshot_20260918_193342_com.mozilla.commonvoice.jpg) 
 ## Objectif
 Préserver 1054 phrases, 6500 mots et audios longs du dialecte Meiganga et Garoua-Boulaï.
 
