@@ -1,7 +1,7 @@
 ---
 language:
 - gya
-license: cc-by-4.0
+licence: cc-by-4.0
 tags:
 - eldp-rg1173
 - elar-soas
@@ -15,23 +15,22 @@ tags:
 
 **Projet ELDP RG1173 - Documentation Yaayuwee pour archivage ELAR SOAS**
 **Chercheur:** HAKMO WAH PAULIN - Locuteur natif Doforo, Bertoua
-**Date:** 18 Septembre - Mozilla Common Voice - Berthus Cameroon
+**Date:** 18 Sept - Mozilla Common Voice
 
 ### Preuve Common Voice
-- 5h10 clips enregistrés, 13/20 vidéos
-- Contribution mondiale: Rang 16
+- 5h10 clips enregistrés
+- Rang 16 mondial
 - Langue: Northwest Gbaya (gya)
 
-### Preuve Officielle Mozilla Data Collective - 18/09/2020
+### Preuve Officielle Mozilla 18/09/2020
 - Dataset: Common Voice Single Word 27.0 - Northwest Gbaya (gya)
-- Total: 44,648 - 9.73 heures validées
-- Text corpus: 1654 phrases validées (100% soumission perso)
-- Lien: https://common-voice.mozilla.org/gya
+- Total: 44,648 clips - 9.73h validées
+- Text corpus: 1654 phrases (100% soumission perso)
 
 ### Objectif RG1173
-1054 phrases, 6500 mots en Yaayuwee Doforo pour ELAR SOAS Londres + IA
+1054 phrases, 6500 mots en Yaayuwee Doforo pour ELAR SOAS + IA
 
 ### Mes datasets Hugging Face
-- [yaayuwee-translations - 65 trilingues - 35 téléchargements](https://huggingface.co/datasets/Paulin-gbaya/yaayuwee-translations)
+- [yaayuwee-translations - 65 trilingues](https://huggingface.co/datasets/Paulin-gbaya/yaayuwee-translations)
 - [northern-gbaya-gya](https://huggingface.co/datasets/Paulin-gbaya/northern-gbaya-gya)
 - [BOUQuet-Yaayuwee](https://huggingface.co/datasets/Paulin-gbaya/BOUQuet-Yaayuwee)
