@@ -14,26 +14,24 @@ tags:
 # Yaayuwee Meiganga-Garoua-Boulaï Documentation RG1173
 
 **Projet ELDP RG1173 - Documentation Yaayuwee pour archivage ELAR SOAS**
-**Chercheur:** HAKMO WAH Paulin - Locuteur natif Doforo, Bertoua, Est Cameroun
+**Chercheur:** HAKMO WAH PAULIN - Locuteur natif Doforo, Bertoua
 **Date:** 18 Septembre - Mozilla Common Voice - Berthus Cameroon
 
-### Preuve Common Voice (wc sori)
-- Créateur: HAKMO WAH PAULIN
+### Preuve Common Voice
 - 5h10 clips enregistrés, 13/20 vidéos
-- Contribution mondiale: 16/11/2020 - Rang 16
+- Contribution mondiale: Rang 16
 - Langue: Northwest Gbaya (gya)
 
 ### Preuve Officielle Mozilla Data Collective - 18/09/2020
-- Dataset: Common Voice Spoken Single Word 27.0 - Northwest Gbaya (gya)
-- Total: 44,648 clips - 9.73 heures validées
-- Text corpus: 1654 phrases validées (100% soumission personnelle)
-- Release: 17/09/2020
-- Lien Live: https://common-voice.mozilla.org/gya
+- Dataset: Common Voice Single Word 27.0 - Northwest Gbaya (gya)
+- Total: 44,648 - 9.73 heures validées
+- Text corpus: 1654 phrases validées (100% soumission perso)
+- Lien: https://common-voice.mozilla.org/gya
 
 ### Objectif RG1173
-1054 phrases, 6500 mots en Yaayuwee Doforo Meiganga-Garoua-Boulaï pour archivage ELAR SOAS (Londres) + Intelligence Artificielle.
+1054 phrases, 6500 mots en Yaayuwee Doforo pour ELAR SOAS Londres + IA
 
-Ce travail est la base de tous mes datasets Hugging Face:
-- yaayuwee-translations (65 trilingues)
-- northern-gbaya-gya
-- BOUQuet-Yaayuwee
+### Mes datasets Hugging Face
+- [yaayuwee-translations - 65 trilingues - 35 téléchargements](https://huggingface.co/datasets/Paulin-gbaya/yaayuwee-translations)
+- [northern-gbaya-gya](https://huggingface.co/datasets/Paulin-gbaya/northern-gbaya-gya)
+- [BOUQuet-Yaayuwee](https://huggingface.co/datasets/Paulin-gbaya/BOUQuet-Yaayuwee)
